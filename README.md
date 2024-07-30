@@ -3,3 +3,7 @@ This generator is able to generate a 10-digit random password with upper case, l
 ```
 py generator.py
 ```
+Generate 1k passwords at once
+```
+py generate1k.py
+```
